@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+  <name>CrashMii</name>
+  <coder>Mango</coder>
+  <version>1.0</version>
+  <release_date>20260310000000</release_date>
+  <short_description>Crash you Wii in one click</short_description>
+  <long_description>Your Wii plays a video and only with one button crash your wii</long_description>
+</app>
